@@ -1,2 +1,3 @@
-# cpp.functional.programming
-Functional programming in C++
+# Functional programming in C++
+
+<i> Work in progress ... </i>
